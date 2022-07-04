@@ -1,2 +1,3 @@
 softskills -  уровень бог
 hard_skills - in process
+hard_skills - postman
